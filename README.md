@@ -17,8 +17,8 @@
 - [mypy](https://github.com/python/mypy)
   - 型チェック
   - 拡張機能: [Mypy Type Checker](https://marketplace.visualstudio.com/items?itemName=ms-python.mypy-type-checker)
-  - VSCode上での利用は, 拡張機能経由が推奨
-    - が、自分の環境ではうまく機能してくれないので、pip install の方を利用する
+  - VSCode上での利用は, 拡張機能経由が推奨されているが、自分の環境ではうまく機能してくれないので、pip install の方を利用する
+      - `$ rye add --dev mypy`
   - pip install での設定
     - 詳細設定は、pyproject.toml に追加する
   - 採用しているコマンドラインオプション
