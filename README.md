@@ -1,6 +1,7 @@
 # rye-template
 
-自分用の Rye + VSCode での開発環境テンプレート
+自分用の Rye + VSCode での開発環境テンプレート\
+まだ Linter と Formatter のみ
 
 
 ## 注意
